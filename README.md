@@ -65,7 +65,7 @@ The SQL analysis uses the relational structure of the dataset to combine orders,
 |---|---:|
 | Total Revenue | €13,591,644 |
 | Total Orders | 99,441 |
-| Average Order Value | €139.34 |
+| Average Order Value | €136.68|
 
 ## Key Findings
 
